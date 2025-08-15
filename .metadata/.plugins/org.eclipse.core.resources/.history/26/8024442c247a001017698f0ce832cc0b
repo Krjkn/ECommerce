@@ -1,0 +1,9 @@
+package com.sad.commons.dtos;
+
+public record PedidoRequest(
+		
+		
+		
+		) {
+
+}

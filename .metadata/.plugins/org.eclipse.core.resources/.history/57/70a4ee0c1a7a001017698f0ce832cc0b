@@ -1,0 +1,11 @@
+package com.sad.commons.dtos;
+
+public record ProductoResponse(
+		Long id, 
+		String nombre, 
+		String descripcion,
+		Short precio, 
+		Short stock
+		) {
+
+}
