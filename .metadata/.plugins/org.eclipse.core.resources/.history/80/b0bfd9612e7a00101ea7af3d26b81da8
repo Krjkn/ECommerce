@@ -1,0 +1,5 @@
+package com.sad.commons.services;
+
+public interface CommonService {
+
+}

@@ -1,0 +1,5 @@
+package com.sad.commons.mappers;
+
+public abstract class CommonMapper {
+
+}
