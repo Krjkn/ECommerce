@@ -1,3 +1,2 @@
-2025/08/15-18:11:03.797 f0c Reusing MANIFEST C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
-2025/08/15-18:11:03.806 f0c Recovering log #3
-2025/08/15-18:11:03.808 f0c Reusing old log C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/000003.log 
+2025/08/16-09:18:36.662 13cc Creating DB C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb since it was missing.
+2025/08/16-09:18:36.739 13cc Reusing MANIFEST C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
