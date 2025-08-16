@@ -10,20 +10,32 @@ import jakarta.persistence.Table;
 public class Productos {
 	
 	@Id
-	@Column(name = "ID_PRODUCTO")
     private Long id;
 
-    @Column(name = "NOMBRE", nullable = false, unique = true, length = 30)
+    @Column(nullable = false, length = 30)
     private String nombre;
-    
-    @Column(name = "DESCRIPCION", nullable = false, unique = true, length = 100)
+
+    @Column(nullable = false, length = 150)
     private String descripcion;
-    
-    @Column(name = "PRECIO", nullable = false)
-    private double precio;
-    
-    @Column(name="STOCK", nullable = false)
-    private Long stock;
+
+    @Column(nullable = false)
+    private Double precio;
+
+    @Column(nullable = false)
+    private Integer stock;
+
+	public Productos(Long id, String nombre, String descripcion, Double precio, Integer stock) {
+		super();
+		this.id = id;
+		this.nombre = nombre;
+		this.descripcion = descripcion;
+		this.precio = precio;
+		this.stock = stock;
+	}
+
+	public Productos() {
+		super();
+	}
 
 	public Long getId() {
 		return id;
@@ -49,21 +61,32 @@ public class Productos {
 		this.descripcion = descripcion;
 	}
 
-	public double getPrecio() {
+	public Double getPrecio() {
 		return precio;
 	}
 
-	public void setPrecio(double precio) {
+	public void setPrecio(Double precio) {
 		this.precio = precio;
 	}
 
-	public Long getStock() {
+	public Integer getStock() {
 		return stock;
 	}
 
-	public void setStock(Long stock) {
+	public void setStock(Integer stock) {
 		this.stock = stock;
 	}
+
+	@Override
+	public String toString() {
+		return "Productos [id=" + id + ", nombre=" + nombre + ", descripcion=" + descripcion + ", precio=" + precio
+				+ ", stock=" + stock + "]";
+	}
+    
+	
+
+    
+
     
 	
 	

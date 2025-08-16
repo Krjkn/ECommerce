@@ -18,5 +18,7 @@ public record ProductoRequest(
         @NotNull(message = "El stock no puede ser nulo")
         @Min(value = 0, message = "El stock no puede ser negativo")
         Short stock
+        
+        
 ) {
 }
