@@ -2,4 +2,16 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.text.DateFormat"/>
     <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="com.sad.commons.services.CommonService"/>
+    <fullyQualifiedTypeName name="com.sad.commons.mappers.CommonMapper"/>
+    <fullyQualifiedTypeName name="com.sad.cliente.mappers.ClienteMapper"/>
+    <fullyQualifiedTypeName name="com.sad.cliente.entities.Cliente"/>
+    <fullyQualifiedTypeName name="com.sad.cliente.repositories.ClienteRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="com.sad.commons.controllers.CommonController"/>
+    <fullyQualifiedTypeName name="com.sad.commons.dtos.ClienteRequest"/>
+    <fullyQualifiedTypeName name="com.sad.commons.dtos.ClienteResponse"/>
+    <fullyQualifiedTypeName name="com.sad.cliente.services.ClienteService"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
 </qualifiedTypeNameHistroy>
