@@ -440,3 +440,174 @@
 2025-08-16 09:19:26,816 [Worker-81: Launching msv-clientes - MsvClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier null to /Commons/target/classes
 2025-08-16 09:19:27,011 [Worker-81: Launching msv-clientes - MsvClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier null to /Commons/target/classes
 2025-08-16 09:19:27,182 [Worker-81: Launching msv-clientes - MsvClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier null to /Commons/target/classes
+2025-08-16 09:33:23,698 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-08-16 09:34:06,029 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Commons:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\Commons\pom.xml.
+2025-08-16 09:34:06,757 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-16 09:34:06,770 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 09:34:06,776 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\Commons\src\test\resources
+2025-08-16 09:34:07,368 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:api-gateway:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\api-gateway\pom.xml.
+2025-08-16 09:34:08,146 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-16 09:34:08,158 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 09:34:08,164 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\api-gateway\src\test\resources
+2025-08-16 09:34:08,528 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:eruka-server:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\eruka-server\pom.xml.
+2025-08-16 09:34:09,240 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-16 09:34:09,249 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 09:34:09,253 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\eruka-server\src\test\resources
+2025-08-16 09:34:09,682 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:msv-clientes:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\pom.xml.
+2025-08-16 09:34:10,208 [Worker-3: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier  to /Commons/target/classes
+2025-08-16 09:34:10,643 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-16 09:34:10,657 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 09:34:10,663 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-16 09:34:12,338 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:msv-clientes:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\pom.xml.
+2025-08-16 09:34:12,780 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier  to /Commons/target/classes
+2025-08-16 09:34:12,820 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Commons:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\Commons\pom.xml.
+2025-08-16 09:34:12,919 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:eruka-server:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\eruka-server\pom.xml.
+2025-08-16 09:34:13,154 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:api-gateway:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\api-gateway\pom.xml.
+2025-08-16 09:35:01,705 [Worker-12: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Commons:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\Commons\pom.xml.
+2025-08-16 09:35:02,137 [Worker-12: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:api-gateway:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\api-gateway\pom.xml.
+2025-08-16 09:35:02,343 [Worker-12: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:eruka-server:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\eruka-server\pom.xml.
+2025-08-16 09:35:02,554 [Worker-12: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:msv-clientes:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\pom.xml.
+2025-08-16 09:35:02,679 [Worker-12: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier  to /Commons/target/classes
+2025-08-16 09:35:03,376 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Commons/src/main/java
+2025-08-16 09:35:03,378 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Commons/src/main/resources
+2025-08-16 09:35:03,380 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Commons/src/main/resources
+2025-08-16 09:35:03,382 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Commons/src/test/java
+2025-08-16 09:35:03,383 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Commons/src/test/resources
+2025-08-16 09:35:03,614 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-clientes/src/main/java
+2025-08-16 09:35:03,614 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-clientes/src/main/resources
+2025-08-16 09:35:03,616 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-clientes/src/main/resources
+2025-08-16 09:35:03,618 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-clientes/src/test/java
+2025-08-16 09:35:03,620 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-clientes/src/test/resources
+2025-08-16 09:35:03,921 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/main/java
+2025-08-16 09:35:03,922 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2025-08-16 09:35:03,924 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2025-08-16 09:35:03,926 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/test/java
+2025-08-16 09:35:03,927 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/test/resources
+2025-08-16 09:35:04,539 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eruka-server/src/main/java
+2025-08-16 09:35:04,541 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eruka-server/src/main/resources
+2025-08-16 09:35:04,545 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eruka-server/src/main/resources
+2025-08-16 09:35:04,548 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eruka-server/src/test/java
+2025-08-16 09:35:04,550 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eruka-server/src/test/resources
+2025-08-16 09:35:05,063 [Worker-12: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 4 project(s) in 4 sec
+2025-08-16 09:35:05,327 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-08-16 09:35:05,780 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:eruka-server:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\eruka-server\pom.xml.
+2025-08-16 09:35:07,024 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eruka-server/src/main/java
+2025-08-16 09:35:07,024 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eruka-server/src/main/resources
+2025-08-16 09:35:07,025 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eruka-server/src/main/resources
+2025-08-16 09:35:07,025 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eruka-server/src/test/java
+2025-08-16 09:35:07,026 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eruka-server/src/test/resources
+2025-08-16 09:35:07,602 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2025-08-16 09:35:08,153 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-16 09:35:08,166 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 09:35:08,174 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\Commons\src\test\resources
+2025-08-16 09:35:08,371 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-16 09:35:08,382 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 09:35:08,389 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\api-gateway\src\test\resources
+2025-08-16 09:35:08,523 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-16 09:35:08,535 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 09:35:08,538 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\eruka-server\src\test\resources
+2025-08-16 09:35:08,758 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-16 09:35:08,770 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 09:35:08,773 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-16 09:35:25,615 [Worker-8: Launching msv-clientes - MsvClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier null to /Commons/target/classes
+2025-08-16 09:35:25,782 [Worker-8: Launching msv-clientes - MsvClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier null to /Commons/target/classes
+2025-08-16 09:35:25,935 [Worker-8: Launching msv-clientes - MsvClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier null to /Commons/target/classes
+2025-08-16 09:35:52,326 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 09:35:52,327 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 09:35:52,331 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-16 09:35:54,785 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 09:35:54,785 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 09:35:54,789 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-16 09:35:58,887 [Worker-5: Launching msv-clientes - MsvClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier null to /Commons/target/classes
+2025-08-16 09:35:59,165 [Worker-5: Launching msv-clientes - MsvClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier null to /Commons/target/classes
+2025-08-16 09:35:59,397 [Worker-5: Launching msv-clientes - MsvClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier null to /Commons/target/classes
+2025-08-16 09:49:03,768 [Worker-4: Launching msv-clientes - MsvClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier null to /Commons/target/classes
+2025-08-16 09:49:03,932 [Worker-4: Launching msv-clientes - MsvClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier null to /Commons/target/classes
+2025-08-16 09:49:04,116 [Worker-4: Launching msv-clientes - MsvClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier null to /Commons/target/classes
+2025-08-16 09:50:30,060 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:msv-productos:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-productos\pom.xml.
+2025-08-16 09:50:30,826 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-productos/src/main/java
+2025-08-16 09:50:30,826 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-productos/src/main/resources
+2025-08-16 09:50:30,828 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-productos/src/main/resources
+2025-08-16 09:50:30,831 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-productos/src/test/java
+2025-08-16 09:50:30,831 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-productos/src/test/resources
+2025-08-16 09:50:31,047 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2025-08-16 09:50:31,049 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-08-16 09:50:31,704 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:msv-productos:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-productos\pom.xml.
+2025-08-16 09:50:32,153 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-productos/src/main/java
+2025-08-16 09:50:32,154 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-productos/src/main/resources
+2025-08-16 09:50:32,154 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-productos/src/main/resources
+2025-08-16 09:50:32,154 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-productos/src/test/java
+2025-08-16 09:50:32,155 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-productos/src/test/resources
+2025-08-16 09:50:32,370 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2025-08-16 09:50:32,702 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-16 09:50:32,713 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 09:50:32,717 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-productos\src\test\resources
+2025-08-16 09:51:11,841 [Worker-3: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:msv-pedidos:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-pedidos\pom.xml.
+2025-08-16 09:51:12,678 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-pedidos/src/main/java
+2025-08-16 09:51:12,679 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-pedidos/src/main/resources
+2025-08-16 09:51:12,681 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-pedidos/src/main/resources
+2025-08-16 09:51:12,684 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-pedidos/src/test/java
+2025-08-16 09:51:12,685 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-pedidos/src/test/resources
+2025-08-16 09:51:12,967 [Worker-3: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2025-08-16 09:51:12,968 [Worker-3: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-08-16 09:51:13,285 [Worker-3: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:msv-pedidos:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-pedidos\pom.xml.
+2025-08-16 09:51:14,088 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-pedidos/src/main/java
+2025-08-16 09:51:14,089 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-pedidos/src/main/resources
+2025-08-16 09:51:14,090 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-pedidos/src/main/resources
+2025-08-16 09:51:14,090 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-pedidos/src/test/java
+2025-08-16 09:51:14,090 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-pedidos/src/test/resources
+2025-08-16 09:51:14,365 [Worker-3: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2025-08-16 09:51:14,619 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-16 09:51:14,631 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 09:51:14,635 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-pedidos\src\test\resources
+2025-08-16 09:51:33,126 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:msv-productos:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-productos\pom.xml.
+2025-08-16 09:51:33,946 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 09:51:33,946 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 09:51:33,952 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-productos\src\test\resources
+2025-08-16 09:51:34,822 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-08-16 09:51:35,007 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:msv-productos:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-productos\pom.xml.
+2025-08-16 09:51:35,514 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-productos/src/main/java
+2025-08-16 09:51:35,515 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-productos/src/main/resources
+2025-08-16 09:51:35,516 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-productos/src/main/resources
+2025-08-16 09:51:35,516 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-productos/src/test/java
+2025-08-16 09:51:35,516 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-productos/src/test/resources
+2025-08-16 09:51:35,832 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-08-16 09:51:36,092 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-16 09:51:36,101 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 09:51:36,106 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-productos\src\test\resources
+2025-08-16 09:52:57,613 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:msv-pedidos:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-pedidos\pom.xml.
+2025-08-16 09:52:58,108 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-pedidos/src/main/java
+2025-08-16 09:52:58,109 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-pedidos/src/main/resources
+2025-08-16 09:52:58,111 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-pedidos/src/main/resources
+2025-08-16 09:52:58,114 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-pedidos/src/test/java
+2025-08-16 09:52:58,115 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-pedidos/src/test/resources
+2025-08-16 09:52:58,384 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2025-08-16 09:52:58,386 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-08-16 09:52:58,556 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:msv-pedidos:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-pedidos\pom.xml.
+2025-08-16 09:52:59,049 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-pedidos/src/main/java
+2025-08-16 09:52:59,049 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-pedidos/src/main/resources
+2025-08-16 09:52:59,050 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-pedidos/src/main/resources
+2025-08-16 09:52:59,050 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-pedidos/src/test/java
+2025-08-16 09:52:59,050 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-pedidos/src/test/resources
+2025-08-16 09:52:59,288 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-08-16 09:52:59,517 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-16 09:52:59,525 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 09:52:59,529 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-pedidos\src\test\resources
+2025-08-16 09:53:24,047 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:msv-productos:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-productos\pom.xml.
+2025-08-16 09:53:24,525 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-productos/src/main/java
+2025-08-16 09:53:24,527 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-productos/src/main/resources
+2025-08-16 09:53:24,528 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-productos/src/main/resources
+2025-08-16 09:53:24,530 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-productos/src/test/java
+2025-08-16 09:53:24,531 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-productos/src/test/resources
+2025-08-16 09:53:24,789 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2025-08-16 09:53:24,791 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-08-16 09:53:24,963 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:msv-productos:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-productos\pom.xml.
+2025-08-16 09:53:25,445 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-productos/src/main/java
+2025-08-16 09:53:25,446 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-productos/src/main/resources
+2025-08-16 09:53:25,447 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-productos/src/main/resources
+2025-08-16 09:53:25,447 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-productos/src/test/java
+2025-08-16 09:53:25,448 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-productos/src/test/resources
+2025-08-16 09:53:25,739 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-08-16 09:53:26,100 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-16 09:53:26,112 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 09:53:26,116 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-productos\src\test\resources
