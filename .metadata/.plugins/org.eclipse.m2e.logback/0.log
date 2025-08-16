@@ -109,3 +109,250 @@
 2025-08-15 17:28:38,640 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-08-15 17:28:38,643 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-08-15 17:28:38,646 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\Commons\src\test\resources
+2025-08-15 17:36:38,855 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 17:36:38,861 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 17:36:38,866 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\Commons\src\test\resources
+2025-08-15 17:36:51,367 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 17:36:51,381 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 17:36:51,381 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\Commons\src\test\resources
+2025-08-15 17:59:10,257 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:msv-clientes:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\pom.xml.
+2025-08-15 17:59:11,214 [Worker-17: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-clientes/src/main/java
+2025-08-15 17:59:11,215 [Worker-17: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-clientes/src/main/resources
+2025-08-15 17:59:11,219 [Worker-17: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-clientes/src/main/resources
+2025-08-15 17:59:11,224 [Worker-17: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-clientes/src/test/java
+2025-08-15 17:59:11,226 [Worker-17: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-clientes/src/test/resources
+2025-08-15 17:59:11,749 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2025-08-15 17:59:11,754 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-08-15 17:59:11,999 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:msv-clientes:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\pom.xml.
+2025-08-15 17:59:12,354 [Worker-17: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-clientes/src/main/java
+2025-08-15 17:59:12,356 [Worker-17: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-clientes/src/main/resources
+2025-08-15 17:59:12,357 [Worker-17: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-clientes/src/main/resources
+2025-08-15 17:59:12,357 [Worker-17: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-clientes/src/test/java
+2025-08-15 17:59:12,358 [Worker-17: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-clientes/src/test/resources
+2025-08-15 17:59:12,585 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-08-15 17:59:13,093 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 17:59:13,105 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 17:59:13,112 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 18:07:52,585 [Worker-35: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sergio:api-gateway:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\api-gateway\pom.xml.
+2025-08-15 18:07:53,521 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 18:07:53,529 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 18:07:53,532 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\api-gateway\src\test\resources
+2025-08-15 18:07:54,014 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 18:07:54,016 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 18:07:54,020 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\api-gateway\src\test\resources
+2025-08-15 18:07:54,344 [Worker-30: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sergio:api-gateway:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\api-gateway\pom.xml.
+2025-08-15 18:08:10,348 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 18:08:10,359 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 18:08:10,362 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\api-gateway\src\test\resources
+2025-08-15 18:08:56,140 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 18:08:56,146 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 18:08:56,150 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\api-gateway\src\test\resources
+2025-08-15 18:09:32,201 [Worker-35: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sergio:eruka-server:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\eruka-server\pom.xml.
+2025-08-15 18:09:33,078 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 18:09:33,087 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 18:09:33,091 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\eruka-server\src\test\resources
+2025-08-15 18:09:34,652 [Worker-35: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sergio:eruka-server:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\eruka-server\pom.xml.
+2025-08-15 18:09:34,724 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 18:09:34,745 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 18:09:34,749 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\eruka-server\src\test\resources
+2025-08-15 18:09:48,263 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 18:09:48,271 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 18:09:48,276 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\eruka-server\src\test\resources
+2025-08-15 18:10:24,696 [Worker-35: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:api-gateway:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\api-gateway\pom.xml.
+2025-08-15 18:10:25,012 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 18:10:25,013 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 18:10:25,017 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\api-gateway\src\test\resources
+2025-08-15 18:11:47,552 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 18:11:47,563 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 18:11:47,566 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\api-gateway\src\test\resources
+2025-08-15 18:12:44,871 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 18:12:44,874 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 18:12:44,876 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\api-gateway\src\test\resources
+2025-08-15 18:13:21,055 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 18:13:21,063 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 18:13:21,067 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 18:14:35,168 [Worker-37: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:msv-clientes:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\pom.xml.
+2025-08-15 18:14:36,150 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 18:14:36,151 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 18:14:36,155 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 18:14:36,811 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-08-15 18:14:37,026 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:msv-clientes:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\pom.xml.
+2025-08-15 18:14:37,529 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-clientes/src/main/java
+2025-08-15 18:14:37,530 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-clientes/src/main/resources
+2025-08-15 18:14:37,530 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-clientes/src/main/resources
+2025-08-15 18:14:37,531 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-clientes/src/test/java
+2025-08-15 18:14:37,531 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-clientes/src/test/resources
+2025-08-15 18:14:37,778 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-08-15 18:14:38,006 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 18:14:38,015 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 18:14:38,019 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 18:16:04,394 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 18:16:04,400 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 18:16:04,404 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\api-gateway\src\test\resources
+2025-08-15 18:17:15,241 [Worker-34: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:api-gateway:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\api-gateway\pom.xml.
+2025-08-15 18:17:15,805 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 18:17:15,805 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 18:17:15,808 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\api-gateway\src\test\resources
+2025-08-15 18:17:17,026 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 18:17:17,035 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 18:17:17,037 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\api-gateway\src\test\resources
+2025-08-15 18:23:33,338 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 18:23:33,343 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 18:23:33,346 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 19:07:11,438 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 19:07:11,456 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:07:11,456 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 19:07:45,321 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 19:07:45,324 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:07:45,326 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 19:08:50,194 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 19:08:50,202 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:08:50,205 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 19:11:23,156 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 19:11:23,164 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:11:23,164 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 19:11:34,035 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 19:11:34,045 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:11:34,050 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 19:11:50,028 [Worker-53: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:msv-clientes:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\pom.xml.
+2025-08-15 19:11:50,786 [Worker-53: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier  to /Commons/target/classes
+2025-08-15 19:11:51,262 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:11:51,263 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:11:51,269 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 19:11:52,414 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 19:11:52,426 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:11:52,429 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 19:12:12,600 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 19:12:12,603 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:12:12,605 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 19:12:40,058 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 19:12:40,064 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:12:40,068 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 19:13:16,723 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 19:13:16,727 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:13:16,730 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 19:19:45,718 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 19:19:45,722 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:19:45,725 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 19:20:20,662 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 19:20:20,667 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:20:20,670 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 19:49:47,943 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 19:49:47,950 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:49:47,956 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 19:50:36,170 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 19:50:36,175 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:50:36,182 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 19:51:52,206 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 19:51:52,211 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:51:52,216 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 19:51:58,928 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 19:51:58,943 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:51:58,946 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 19:52:37,424 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 19:52:37,430 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:52:37,437 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 19:53:29,505 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 19:53:29,510 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:53:29,521 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 19:53:44,121 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:53:44,122 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:53:44,125 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 19:55:31,681 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:55:31,684 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:55:31,686 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 19:55:34,550 [Worker-66: Launching msv-clientes] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier null to /Commons/target/classes
+2025-08-15 19:55:34,804 [Worker-66: Launching msv-clientes] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier null to /Commons/target/classes
+2025-08-15 19:55:35,052 [Worker-66: Launching msv-clientes] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier null to /Commons/target/classes
+2025-08-15 19:55:49,354 [Worker-77: Launching msv-clientes] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier null to /Commons/target/classes
+2025-08-15 19:55:49,506 [Worker-77: Launching msv-clientes] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier null to /Commons/target/classes
+2025-08-15 19:55:49,651 [Worker-77: Launching msv-clientes] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier null to /Commons/target/classes
+2025-08-15 19:55:55,028 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:55:55,028 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:55:55,031 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 19:56:04,870 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:56:04,870 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:56:04,874 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 19:56:05,135 [Worker-75: Launching msv-clientes] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier null to /Commons/target/classes
+2025-08-15 19:56:05,277 [Worker-75: Launching msv-clientes] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier null to /Commons/target/classes
+2025-08-15 19:56:05,427 [Worker-75: Launching msv-clientes] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier null to /Commons/target/classes
+2025-08-15 19:56:51,121 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 19:56:51,125 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:56:51,128 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 19:56:52,550 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 19:56:52,555 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:56:52,557 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 19:56:54,412 [Worker-77: Launching msv-clientes] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier null to /Commons/target/classes
+2025-08-15 19:56:54,563 [Worker-77: Launching msv-clientes] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier null to /Commons/target/classes
+2025-08-15 19:56:54,707 [Worker-77: Launching msv-clientes] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier null to /Commons/target/classes
+2025-08-15 19:57:18,045 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-15 19:57:18,048 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-15 19:57:18,050 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-15 19:57:19,872 [Worker-78: Launching msv-clientes] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier null to /Commons/target/classes
+2025-08-15 19:57:20,018 [Worker-78: Launching msv-clientes] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier null to /Commons/target/classes
+2025-08-15 19:57:20,221 [Worker-78: Launching msv-clientes] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier null to /Commons/target/classes
+2025-08-16 08:10:54,630 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-08-16 08:18:39,640 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Commons:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\Commons\pom.xml.
+2025-08-16 08:18:40,305 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:msv-clientes:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\pom.xml.
+2025-08-16 08:18:40,705 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier  to /Commons/target/classes
+2025-08-16 08:18:41,641 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Commons/src/main/java
+2025-08-16 08:18:41,643 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Commons/src/main/resources
+2025-08-16 08:18:41,648 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Commons/src/main/resources
+2025-08-16 08:18:41,652 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Commons/src/test/java
+2025-08-16 08:18:41,654 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Commons/src/test/resources
+2025-08-16 08:18:42,622 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-clientes/src/main/java
+2025-08-16 08:18:42,623 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-clientes/src/main/resources
+2025-08-16 08:18:42,627 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-clientes/src/main/resources
+2025-08-16 08:18:42,631 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-clientes/src/test/java
+2025-08-16 08:18:42,632 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-clientes/src/test/resources
+2025-08-16 08:18:43,221 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 2 project(s) in 5 sec
+2025-08-16 08:18:43,769 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-08-16 08:18:44,495 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:msv-clientes:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\pom.xml.
+2025-08-16 08:18:45,485 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier  to /Commons/target/classes
+2025-08-16 08:18:46,087 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-clientes/src/main/java
+2025-08-16 08:18:46,088 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-clientes/src/main/resources
+2025-08-16 08:18:46,088 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-clientes/src/main/resources
+2025-08-16 08:18:46,089 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /msv-clientes/src/test/java
+2025-08-16 08:18:46,090 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /msv-clientes/src/test/resources
+2025-08-16 08:18:46,857 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2025-08-16 08:18:48,405 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-16 08:18:48,431 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 08:18:48,446 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\Commons\src\test\resources
+2025-08-16 08:18:49,625 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-16 08:18:49,650 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 08:18:49,657 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-16 08:25:44,592 [Worker-14: Checking out Maven projects] INFO  o.e.m.s.i.w.MavenProjectCheckoutJob - No Maven projects to import
+2025-08-16 08:26:20,539 [Worker-23: Checking out Maven projects] INFO  o.e.m.s.i.w.MavenProjectCheckoutJob - No Maven projects to import
+2025-08-16 08:28:28,558 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Commons:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\Commons\pom.xml.
+2025-08-16 08:28:29,772 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-16 08:28:29,803 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 08:28:29,819 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\Commons\src\test\resources
+2025-08-16 08:28:30,172 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-16 08:28:30,174 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 08:28:30,179 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\Commons\src\test\resources
+2025-08-16 08:28:30,700 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sad:msv-clientes:0.0.1-SNAPSHOT @ C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\pom.xml.
+2025-08-16 08:28:31,458 [Worker-24: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Commons: com.example:Commons:0.0.1-SNAPSHOT with classifier  to /Commons/target/classes
+2025-08-16 08:28:31,858 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-16 08:28:31,870 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 08:28:31,874 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-16 08:28:33,108 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-16 08:28:33,111 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 08:28:33,116 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-16 08:56:11,293 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-16 08:56:11,293 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 08:56:11,301 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\Commons\src\test\resources
+2025-08-16 08:56:11,342 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 08:56:11,345 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 08:56:11,350 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-16 09:01:11,430 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-16 09:01:11,435 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 09:01:11,453 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\Commons\src\test\resources
+2025-08-16 09:01:11,522 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 09:01:11,523 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 09:01:11,533 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
+2025-08-16 09:06:11,379 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-16 09:06:11,387 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 09:06:11,399 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\Commons\src\test\resources
+2025-08-16 09:06:11,468 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 09:06:11,469 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-16 09:06:11,477 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Krjkn\Desktop\PrecursoTR\ECommerce\msv-clientes\src\test\resources
